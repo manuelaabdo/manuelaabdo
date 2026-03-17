@@ -26,7 +26,7 @@ Atualmente, curso **Desenvolvimento de Sistemas no SENAI/SP**, onde busco conect
 **Ferramentas & Softwares**
 > ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 > ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-> ![Astrometrica](https://img.shields.io/badge/Astrometrica-502D7F?style=for-the-badge&logo=target&logoColor=white)> 
+> ![Astrometrica](https://img.shields.io/badge/Astrometrica-502D7F?style=for-the-badge&logo=target&logoColor=white)
 
 
 ### 📫 Vamos nos conectar?
