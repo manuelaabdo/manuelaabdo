@@ -30,5 +30,7 @@ Atualmente, curso **Desenvolvimento de Sistemas no SENAI/SP**, onde busco conect
 [![Currículo Lattes](https://img.shields.io/badge/Currículo_Lattes-004488?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/8415109970760120)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuabdo10@gmail.com)
 
+![Texto Alternativo](caminho/do/seu/gif.gif)
+
 
 
