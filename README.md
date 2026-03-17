@@ -36,7 +36,9 @@ Atualmente, curso **Desenvolvimento de Sistemas no SENAI/SP**, onde busco conect
 
 ----
 
-![Texto Alternativo](987fe118c778fb2bf10322ee24f73cc1.gif)
+<p align="center">
+  <img src="987fe118c778fb2bf10322ee24f73cc1.gif" alt="Texto Alternativo" width="100%">
+</p>
 
 
 
