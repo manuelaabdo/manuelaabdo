@@ -31,4 +31,4 @@ Atualmente, curso **Desenvolvimento de Sistemas no SENAI/SP**, onde busco conect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuabdo10@gmail.com)
 
 
--->
+
