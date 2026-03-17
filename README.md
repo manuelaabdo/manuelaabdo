@@ -10,7 +10,7 @@ Atualmente, curso **Desenvolvimento de Sistemas no SENAI/SP**, onde busco conect
 ### 🌌 Sobre Mim
 
 - 🎓 **Educação:** Ensino Médio + Técnico em Desenvolvimento de Sistemas (SENAI).
-- 🔭 **Interesses:** Astrofísica, Engenharia Aeroespacial e artes visuais.
+- 🔭 **Interesses:** Astrofísica, Engenharia Aeroespacial e Artes Visuais.
 - 🚀 **Foguetemodelismo:** Envolvida em projetos de construção e lançamento de foguetes, aplicando tecnologia para cálculos de apogeu e telemetria.
 - 🏆 **Competições:** Participante ativa em Olimpíadas Científicas e campanhas de detecção de asteroides.
 
