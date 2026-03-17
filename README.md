@@ -1,5 +1,8 @@
 
-# 👋 Olá, eu sou a Manuela Pires Abdo!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c11c84&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
+
+# 👋 Eu sou a Manuela Pires Abdo!
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas & Cientista Cidadã IASC/MCTI
 
